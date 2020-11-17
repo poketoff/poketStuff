@@ -1,0 +1,10 @@
+E:\Codding\C#\PoketStuff\PoketStuff\bin\Debug\PoketStuff.exe.config
+E:\Codding\C#\PoketStuff\PoketStuff\bin\Debug\PoketStuff.exe
+E:\Codding\C#\PoketStuff\PoketStuff\bin\Debug\PoketStuff.pdb
+E:\Codding\C#\PoketStuff\PoketStuff\obj\Debug\PoketStuff.csprojAssemblyReference.cache
+E:\Codding\C#\PoketStuff\PoketStuff\obj\Debug\PoketStuff.Form1.resources
+E:\Codding\C#\PoketStuff\PoketStuff\obj\Debug\PoketStuff.Properties.Resources.resources
+E:\Codding\C#\PoketStuff\PoketStuff\obj\Debug\PoketStuff.csproj.GenerateResource.cache
+E:\Codding\C#\PoketStuff\PoketStuff\obj\Debug\PoketStuff.csproj.CoreCompileInputs.cache
+E:\Codding\C#\PoketStuff\PoketStuff\obj\Debug\PoketStuff.exe
+E:\Codding\C#\PoketStuff\PoketStuff\obj\Debug\PoketStuff.pdb
